@@ -1,11 +1,11 @@
 {
   "nftName": "Anticore",
   "totalSupply": 500,
-  "category": {
+  "category": {real world asset}
     "SSR": 20,
     "SR": 100,
-    "R": 250,
-    "Regular": 130
+    "S": 130,
+    "Regular": 250
   },
   "creater": "Antic Team",
   "designer": "Mr. Faisal Aurora"
